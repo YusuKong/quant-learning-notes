@@ -1,4 +1,4 @@
-# The Sock Drawer
+# Successive Wins
 source: Fifty Challenging Problems in Probability With Solutions
 
 ## Problem
